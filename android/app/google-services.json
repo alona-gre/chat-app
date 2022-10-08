@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335537050773",
+    "project_id": "flutter-chat-bacaa",
+    "storage_bucket": "flutter-chat-bacaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335537050773:android:235b44b5df20b92669b79c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335537050773-cpr87hhdprkanqaqe2p39bffl88p8pmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KBStjvTyp2OSEa20ZdnQRg77ahyFLHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335537050773-cpr87hhdprkanqaqe2p39bffl88p8pmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
